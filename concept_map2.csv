@@ -1,0 +1,98 @@
+"_id","_labels","createdAt","expanded","id","label","origin","position","visible","_start","_end","_type","citation","citations","createdAt","origin"
+"119939",":Concept","2023-05-17T21:07:37.120Z","true","9883","Health care","","[736.7898117908153,1183.855441185399]","true",,,,,,,
+"119886",":Concept","2023-05-17T20:41:10.380Z","true","6177","Transport","","[1134.129988075334,1420.4310160344603]","true",,,,,,,
+"119885",":Concept","2023-05-17T20:39:16.374Z","true","4611","Delivery","","[880.7114652460453,1501.9470162297032]","true",,,,,,,
+"119884",":Concept","2023-05-17T20:39:08.923Z","true","6883","Drone","","[844.2107442267775,1308.971490458639]","true",,,,,,,
+"119883",":Concept","2023-05-17T20:38:59.637Z","true","1065","Farming","","[1456.0448831904969,1545.9502166018324]","true",,,,,,,
+"119882",":Concept","2023-05-17T20:38:08.138Z","true","7802","Manufacturing","","[662.615584429174,1573.1670611561824]","true",,,,,,,
+"119881",":Concept","2023-05-17T20:37:59.737Z","true","5004","3D printing","","[658.4574249428907,1332.161125103032]","true",,,,,,,
+"119880",":Concept","2023-05-17T20:37:32.231Z","false","6404","Electric vehicle","","[1327.5863991594688,1275.1279236697394]","true",,,,,,,
+"119879",":Concept","2023-05-17T20:37:26.010Z","true","8925","Self-driving car","","[959.9978930526192,1303.9895857613078]","true",,,,,,,
+"119878",":Concept","2023-05-17T20:37:07.310Z","true","7944","Robotics","","[874.3071815804495,1592.8460537122228]","true",,,,,,,
+"119877",":Concept","2023-05-17T20:36:57.797Z","true","843","Awareness","","[230.5535657505653,683.674068249121]","true",,,,,,,
+"119876",":Concept","2023-05-17T20:36:52.829Z","true","7436","Education","","[472.1940700594905,781.4813526468083]","true",,,,,,,
+"119874",":Concept","2023-05-17T20:36:35.970Z","true","2650","Virtual reality","","[94.5518296052283,24.79695058929442]","true",,,,,,,
+"119873",":Concept","2023-05-17T20:36:29.911Z","true","5653","Cloud computing","","[1120.002213805906,1185.5076907351074]","true",,,,,,,
+"119872",":Concept","2023-05-17T20:36:24.018Z","true","6653","Big data","","[1234.6295911647496,1040.8155726759132]","true",,,,,,,
+"119871",":Concept","2023-05-17T20:36:19.601Z","true","87","Internet of things","","[1350.3957024073718,1209.3793843696703]","true",,,,,,,
+"119867",":Concept","2023-05-17T20:35:47.647Z","true","5328","Machine learning","","[997.8986942445426,1104.1707938872469]","true",,,,,,,
+"119866",":Concept","2023-05-17T20:35:33.246Z","true","3021","Data center","","[1281.0487103158155,1109.6851803309291]","true",,,,,,,
+"119817",":Concept","2023-05-17T20:35:26.370Z","true","7276","Energy efficiency","","[649.7909947300975,906.6159782658973]","true",,,,,,,
+"119823",":Concept","2023-05-17T20:35:17.413Z","true","4153","Green computing","","[554.5693935029766,1066.123812407156]","true",,,,,,,
+"115806",":Concept","","true","113331","Wind power","teacher","[871.1174580680354,71.093662110115]","true",,,,,,,
+"115787",":Concept","","true","113337","Biodiversity loss","teacher","[1441.1692594833644,415.08895414242227]","true",,,,,,,
+"115803",":Concept","","true","113351","Sustainable development","teacher","[1000.5180268109519,829.7801625694661]","true",,,,,,,
+"115800",":Concept","","true","113350","Societal collapse","teacher","[1205.1881251922189,619.6667888728007]","true",,,,,,,
+"115807",":Concept","","true","113348","Fossil fuel","teacher","[685.8576483563149,410.7312217350659]","true",,,,,,,
+"115789",":Concept","","true","113330","Solar power","teacher","[557.1327981108877,86.62951668161054]","true",,,,,,,
+"115798",":Concept","","true","113349","Greenhouse gas emissions","teacher","[675.9386571142796,534.4733183546209]","true",,,,,,,
+"115804",":Concept","","true","113334","Artificial intelligence","teacher","[220.34277723233882,152.44719383835326]","true",,,,,,,
+"115793",":Concept","","true","113346","Environmental migrant","teacher","[845.5021018057804,270.37440548705035]","true",,,,,,,
+"115797",":Concept","","true","113341","Agriculture","teacher","[1300.3543177077552,532.6846147477762]","true",,,,,,,
+"115805",":Concept","","true","113345","Renewable energy","teacher","[706.2498317079718,211.36252814117984]","true",,,,,,,
+"115799",":Concept","","true","113338","Computer","teacher","[362.7871877235065,181.9850280347105]","true",,,,,,,
+"115791",":Concept","","true","113336","Industrialisation","teacher","[439.15520426966685,581.7183650355036]","true",,,,,,,
+"115795",":Concept","","true","113347","Sea level rise","teacher","[1002.719530378271,420.3646662418623]","true",,,,,,,
+"115790",":Concept","","true","113343","Animal welfare","teacher","[1282.7957374025648,266.83077028719185]","true",,,,,,,
+"115809",":Concept","","true","113335","Well-being","teacher","[668.9044152262894,701.7155016724954]","true",,,,,,,
+"115796",":Concept","","true","113339","National security","teacher","[1036.4916818632678,198.16752749217747]","true",,,,,,,
+"115801",":Concept","","true","113342","Environmental degradation","teacher","[1295.18042821927,840.8316229660303]","true",,,,,,,
+"115808",":Concept","","true","113344","Electronic waste","teacher","[227.9693152946361,482.3941041145286]","true",,,,,,,
+"115794",":Concept","","true","113329","Mobile phone","teacher","[138.73411278165173,262.5767728373876]","true",,,,,,,
+"115802",":Concept","","true","113340","Information technology","teacher","[303.0919538305706,266.94586983992417]","true",,,,,,,
+"115788",":Concept","","true","113333","Climate change","teacher","[1088.0867624275802,497.87659334612493]","true",,,,,,,
+"115792",":Concept","","true","113332","Energy consumption","teacher","[517.8149516575136,351.9915673238343]","true",,,,,,,
+,,,,,,,,,"115806","115805","is a type of","","[""undefined""]","","teacher"
+,,,,,,,,,"119876","119877","is positively coupled with","https://www.unesco.org/en/biodiversity/education","[""https://www.unesco.org/en/biodiversity/education""]","2023-05-17T20:52:58.090Z",""
+,,,,,,,,,"115805","115807","is negatively coupled with","","","","teacher"
+,,,,,,,,,"119874","115804","is positively coupled with","https://digitalreality.ieee.org/publications/ai-in-virtual-reality#:~:text=A%20good%20virtual%20reality%20experience,artificial%20intelligence%20in%20multiple%20ways.","[""https://digitalreality.ieee.org/publications/ai-in-virtual-reality#:~:text=A%20good%20virtual%20reality%20experience,artificial%20intelligence%20in%20multiple%20ways.""]","2023-05-17T20:55:34.987Z",""
+,,,,,,,,,"119823","119817","is positively coupled with","https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/gomes-et-al-computational-sustainability?assignmentId=wKKsrSK7mwMcoakRx&part=1","[""https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/gomes-et-al-computational-sustainability?assignmentId=wKKsrSK7mwMcoakRx&part=1""]","2023-05-17T20:54:20.169Z",""
+,,,,,,,,,"115807","115798","is positively coupled with","","","","teacher"
+,,,,,,,,,"119876","119817","is positively coupled with","https://www.sciencedirect.com/science/article/pii/S0959652620339949","[""https://www.sciencedirect.com/science/article/pii/S0959652620339949""]","2023-05-17T20:58:51.367Z",""
+,,,,,,,,,"119884","119886","is a type of","https://www.flyingmag.com/guides/what-is-a-drone/","[""https://www.flyingmag.com/guides/what-is-a-drone/""]","2023-05-17T20:58:04.571Z",""
+,,,,,,,,,"119878","119939","is positively coupled with","https://www.ahu.edu/blog/robotics-in-healthcare","[""https://www.ahu.edu/blog/robotics-in-healthcare""]","2023-05-17T21:08:08.571Z",""
+,,,,,,,,,"119878","119882","is positively coupled with","https://mantec.org/robotics-manufacturing/","[""https://mantec.org/robotics-manufacturing/""]","2023-05-17T21:01:20.319Z",""
+,,,,,,,,,"119867","119817","is negatively coupled with","https://semiengineering.com/ai-power-consumption-exploding/","[""https://semiengineering.com/ai-power-consumption-exploding/""]","2023-05-17T21:02:47.627Z",""
+,,,,,,,,,"119879","119886","is a type of","https://www.kbb.com/car-advice/self-driving-cars/","[""https://www.kbb.com/car-advice/self-driving-cars/""]","2023-05-17T20:41:56.250Z",""
+,,,,,,,,,"119867","119823","is negatively coupled with","https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-carbon-impact-of-artificial-intelligence-or-nature-machine-intelligence?assignmentId=EYgZFqTy9XTx9dEQB&part=1","[""https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-carbon-impact-of-artificial-intelligence-or-nature-machine-intelligence?assignmentId=EYgZFqTy9XTx9dEQB&part=1""]","2023-05-17T21:04:55.966Z",""
+,,,,,,,,,"119883","115797","is a type of","https://www.studysmarter.us/explanations/human-geography/agricultural-geography/types-of-agriculture/","[""https://www.studysmarter.us/explanations/human-geography/agricultural-geography/types-of-agriculture/""]","2023-05-17T21:03:56.188Z",""
+,,,,,,,,,"115787","115801","is a type of","","","","teacher"
+,,,,,,,,,"115787","115790","is negatively coupled with","","","","teacher"
+,,,,,,,,,"115788","115800","is positively coupled with","","","","teacher"
+,,,,,,,,,"115788","115801","is a type of","","","","teacher"
+,,,,,,,,,"115788","115790","is negatively coupled with","","","","teacher"
+,,,,,,,,,"115788","115795","is positively coupled with","","","","teacher"
+,,,,,,,,,"115789","115805","is a type of","","[""undefined""]","","teacher"
+,,,,,,,,,"115788","115796","is negatively coupled with","","","","teacher"
+,,,,,,,,,"115788","115809","is negatively coupled with","","","","teacher"
+,,,,,,,,,"115791","115792","is positively coupled with","","","","teacher"
+,,,,,,,,,"115791","115809","is positively coupled with","","","","teacher"
+,,,,,,,,,"115793","115809","is negatively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"115792","115807","is positively coupled with","","","","teacher"
+,,,,,,,,,"119880","119886","is a type of","https://afdc.energy.gov/laws/12660","[""https://afdc.energy.gov/laws/12660""]","2023-05-17T20:42:56.375Z",""
+,,,,,,,,,"115795","115793","is positively coupled with","","","","teacher"
+,,,,,,,,,"115794","115802","is a type of","","","","teacher"
+,,,,,,,,,"119881","119882","is positively coupled with","https://manufacturingdigital.com/technology/evolution-3d-printing-manufacturing","[""https://manufacturingdigital.com/technology/evolution-3d-printing-manufacturing""]","2023-05-17T20:45:59.662Z",""
+,,,,,,,,,"115797","115809","is positively coupled with","","","","teacher"
+,,,,,,,,,"119878","119883","is positively coupled with","https://www.croptracker.com/blog/robotic-technologies-in-agriculture.html","[""https://www.croptracker.com/blog/robotic-technologies-in-agriculture.html""]","2023-05-17T20:45:25.167Z",""
+,,,,,,,,,"115796","115809","is positively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"119884","119885","is positively coupled with","https://www.aboutamazon.com/news/transportation/amazon-prime-air-prepares-for-drone-deliveries","[""https://www.aboutamazon.com/news/transportation/amazon-prime-air-prepares-for-drone-deliveries""]","2023-05-17T20:44:47.637Z",""
+,,,,,,,,,"115798","115788","is positively coupled with","","","","teacher"
+,,,,,,,,,"115797","115801","is positively coupled with","","","","teacher"
+,,,,,,,,,"115797","115790","is negatively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"115800","115809","is negatively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"115799","115802","is a type of","","","","teacher"
+,,,,,,,,,"119867","115801","is positively coupled with","https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-carbon-impact-of-artificial-intelligence-or-nature-machine-intelligence?assignmentId=EYgZFqTy9XTx9dEQB&part=1","[""https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-carbon-impact-of-artificial-intelligence-or-nature-machine-intelligence?assignmentId=EYgZFqTy9XTx9dEQB&part=1""]","2023-05-17T20:47:04.968Z",""
+,,,,,,,,,"115802","115792","is positively coupled with","","","","teacher"
+,,,,,,,,,"115801","115809","is negatively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"119872","119867","is positively coupled with","https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/?sh=33ab23bf71d2","[""https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/?sh=33ab23bf71d2""]","2023-05-17T20:51:17.518Z",""
+,,,,,,,,,"115803","115809","is positively coupled with","","[""undefined""]","","teacher"
+,,,,,,,,,"119867","119879","is positively coupled with","https://wandb.ai/ivangoncharov/AVs-report/reports/The-Role-Of-Machine-Learning-In-Autonomous-Vehicles--VmlldzoyNTExMDE3#:~:text=The%20role%20of%20machine%20learning%20in%20autonomous%20vehicles%20is%20to,and%20to%20predict%20their%20behavior.","[""https://wandb.ai/ivangoncharov/AVs-report/reports/The-Role-Of-Machine-Learning-In-Autonomous-Vehicles--VmlldzoyNTExMDE3#:~:text=The%20role%20of%20machine%20learning%20in%20autonomous%20vehicles%20is%20to,and%20to%20predict%20their%20behavior.""]","2023-05-17T20:50:37.988Z",""
+,,,,,,,,,"119871","119873","is positively coupled with","https://dgtlinfra.com/cloud-internet-of-things-iot/#:~:text=Cloud%20Internet%20of%20Things%20(IoT,(AI)%20and%20analytics%20capabilities.","[""https://dgtlinfra.com/cloud-internet-of-things-iot/#:~:text=Cloud%20Internet%20of%20Things%20(IoT,(AI)%20and%20analytics%20capabilities.""]","2023-05-17T20:50:04.199Z",""
+,,,,,,,,,"115802","115808","is positively coupled with","","","","teacher"
+,,,,,,,,,"119873","119866","is positively coupled with","https://aws.amazon.com/what-is/data-center/","[""https://aws.amazon.com/what-is/data-center/""]","2023-05-17T20:49:31.422Z",""
+,,,,,,,,,"115802","115791","is positively coupled with","","","","teacher"
+,,,,,,,,,"115804","115802","is a type of","","","","teacher"
+,,,,,,,,,"119877","115808","is negatively coupled with","https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-story-of-stuff-project-the-story-of-electronics?assignmentId=2uF4iKg7zjXWzDTzB&part=1","[""https://app.perusall.com/courses/i-and-c-sci-5-lec-a-glbl-dsrpt-inf-tech-35610-348762330/the-story-of-stuff-project-the-story-of-electronics?assignmentId=2uF4iKg7zjXWzDTzB&part=1""]","2023-05-17T20:52:25.402Z",""
+,,,,,,,,,"119872","119866","is positively coupled with","https://www.datacenterknowledge.com/archives/2013/09/05/big-data-what-it-means-for-data-center-infrastructure","[""https://www.datacenterknowledge.com/archives/2013/09/05/big-data-what-it-means-for-data-center-infrastructure""]","2023-05-17T20:51:39.572Z",""
+,,,,,,,,,"115803","115788","is negatively coupled with","","","","teacher"
